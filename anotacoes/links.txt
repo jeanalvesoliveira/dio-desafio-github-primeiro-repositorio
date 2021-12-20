@@ -1,0 +1,2 @@
+Página oficial do GIT: https://git-scm.com/
+Guia de markdown:https://www.markdownguide.org/basic-syntax/
